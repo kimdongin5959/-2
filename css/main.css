@@ -1,0 +1,236 @@
+@charset "utf-8";
+
+/*메인컨텐츠01*/
+.mainCon01{
+	text-align: center;
+	font-weight: 700;
+}
+
+.con01Slider{
+	position: relative;
+	margin-top: 50px;
+}
+.con01Slider a{}
+.con01Slider img{
+	width:100%;
+	display: block;
+}
+.con01Txt{
+	position: absolute;
+	left: 5%;
+	bottom: 5%;
+	text-align: left;
+	font-size: 14px;
+}
+.con01Txt p{
+	color:#fff;
+}
+.con01Txt h2{
+	margin-top: 5px;
+	color:#fff;
+	font-size: 20px;
+}
+
+.gnb{
+	margin-top: 30px;
+}
+.gnb li{
+	float: left;
+	width:33.33%;
+	margin:0 auto;
+	
+}
+.gnb li a{}
+.gnb li img{
+	width:70%;
+}
+.gnb li p{
+	padding:10px 0;
+}
+
+/*메인컨텐츠02*/
+.mainCon02{
+	width:90%;
+	margin: 0 auto;
+	font-weight: 700;
+}
+.mainCon02 img{}
+.mainCon02 h2{
+	margin-top: 65px;
+	margin-bottom: 40px;
+}
+
+.con02Txt{
+	margin: 10px 0;
+}
+.con02Txt li{
+	float: left;
+	vertical-align: middle;
+}
+.con02Txt li p{}
+
+.heart{
+	margin-right: 5px;
+}
+.heart img{
+	width:21px;
+}
+.heart span{
+}
+
+.mainCon02 .moreBtn{
+	float: right;
+}
+.mainCon02 .moreBtn a{}
+.mainCon02 .moreBtn img{
+	width:50px;
+}
+
+.con02Slider{}
+.con02Slider .con02Img{}
+.con02Slider .con02Img img{
+	width:100%;
+	display: block;
+}
+.con02Slider p{
+	padding: 10px 0;
+}
+.con02Slider h3{
+	margin-bottom: 20px;
+}
+
+.review{}
+.reviewImg{
+	float: left;
+	width:35%;
+}
+.reviewImg a{}
+.reviewImg img{
+	width:100%;
+	display: block;
+}
+
+.reviewTxt{
+	width:55%;
+	float: right;
+	font-size: 14px;
+}
+.starImg{
+	width:93px;
+	margin-right: 25px;
+}
+.star a{}
+.starImg img{
+	width:100%;
+}
+.reviewTxt p{
+	font-size: 13px;
+}
+.reviewTxt span{
+	margin:13px 0;
+	display: block;
+}
+
+/*mainCon03*/
+.mainCon03{
+	font-weight: 700;
+	position: relative;
+}
+.con03Tit{
+	width:90%;
+	margin: 0 auto;
+	margin-top: 65px;
+	margin-bottom: 40px;
+}
+.con03Tit h2{
+	float: left;
+}
+.con03Tit .moreBtn{
+	margin-top: 9px;
+	float:right;
+	width:60px;
+}
+.con03Tit .moreBtn a{}
+.con03Tit .moreBtn img{
+	width:100%;
+}
+
+.recipe{
+	width:90%;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+.recipe li{
+	float: left;
+	width:calc(50% - 5px);
+}
+.recipe li:nth-child(2n-1){
+	margin-right:10px;
+}
+.recipe li a{}
+.recipe li a img{
+	display: block;
+	width:100%;
+}
+.recipe li a p{
+	font-size: 14px;
+	margin: 5px 0;
+}
+.recipe li a h3{
+	font-size:20px;
+	margin-bottom: 25px;
+}
+
+.banner{
+	width:100%;
+	background: #ffed93;
+}
+.banner a{}
+
+.bannerImg{
+	width:130px;
+	position: absolute;
+	bottom:20px;
+	right:5%;
+}
+.bannerImg img{
+	width:100%;
+	display: block;
+}
+
+.bannerTxt{
+	width:90%;
+	margin: 0 auto;
+	padding:20px;
+	text-align: left;
+	font-size: 14px;
+}
+.bannerTxt p{}
+.bannerTxt h3{
+	font-size:20px;
+}
+.bannerTxt span{
+	display: block;
+	padding-bottom: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
